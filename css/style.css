@@ -128,7 +128,7 @@ header {
    max-height: 123px;
 }
 
-#home-up {
+#home {
    background-color: rgba(255, 255, 255, 0.19);
    width: auto;
    height: 700px;
@@ -136,12 +136,12 @@ header {
    text-align: center;
 }
 
-#home-up h1 {
+#home h1 {
    font-size: 100px;
    color: red;
 }
 
-#home-up li {
+#home li {
    margin: 20px;
    font-size: 50px;
    color: red;
@@ -269,18 +269,18 @@ header {
       font-size: 1.5em;
    }
 
-#home-up {
+#home {
    width: auto;
    height: auto;
    padding: 15px;
 }
 
-#home-up h1 {
+#home h1 {
    font-size: 50px;
    color: red;
 }
 
-#home-up li {
+#home li {
    margin: 5px;
    font-size: 25px;
    color: red;
